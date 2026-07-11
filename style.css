@@ -102,6 +102,10 @@ nav {
     margin-left: 30%;
 }
 
+.hero-text h1 {
+    font-size: 50px;
+}
+
 .hero-button button {
     width: 20%;
     margin-left: 40%;
